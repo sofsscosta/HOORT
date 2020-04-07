@@ -1,0 +1,19 @@
+{
+  "name": "hoort-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hoort-errors": "file:../hoort-errors"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "npx mocha *.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
