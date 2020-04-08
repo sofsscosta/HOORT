@@ -4,6 +4,8 @@
 
 HOORT exists to help you manage your crops. Allows you to draw your land and to decide where to plant what veggie or fruit. You get access to a calendar with a prediction of when you'll harvest what you have sown.
 
+No XCode to checkout the project? No problem! Click [here](https://www.linkedin.com/posts/sofia-costa-frontend-developer_reactnative-bootcamp-skylabcodersacademy-activity-6651824206730321920-Rkaz) to see a video demo!
+
 <!-- ![gif](https://media.giphy.com/media/l3vRiyQT1lPzaNsQ0/giphy.gif) -->
 
 <!-- ![gif](https://media.giphy.com/media/WPtzVOKMymmZrJv8fO/giphy.gif) -->
