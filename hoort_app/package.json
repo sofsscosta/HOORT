@@ -16,7 +16,7 @@
     "hoort-errors": "file:../hoort-errors",
     "hoort-utils": "file:../hoort-utils",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-fetch": "^2.6.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
